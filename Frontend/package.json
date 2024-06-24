@@ -6,16 +6,14 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "build": "vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ankit1478/common-mediumproject": "^1.0.0",
+    "@sohailkhan786/comon-blogmantra": "^1.0.0",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.15",
-    "@sohailkhan786/comon-blogmantra": "^1.0.0",
     "axios": "^1.6.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
