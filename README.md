@@ -23,11 +23,11 @@ BlogMantra is a modern blogging application inspired by platforms like Medium, d
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chandanck22/vibranthive.git
+git clone https://github.com/Sohailkhan2k02/-BlogMantra.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd vibranthive
+cd -BlogMantra
 ```
 3. Install dependencies for both the frontend and backend:
 ```bash
